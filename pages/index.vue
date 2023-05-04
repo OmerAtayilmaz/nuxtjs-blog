@@ -15,6 +15,7 @@
   <div>
     {{ user }}
   </div>
+  <Calculator/>
 </template>
 <script setup>
 

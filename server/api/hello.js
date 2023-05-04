@@ -1,4 +1,5 @@
-export default (req, res) => { return {
-"foo":"bar"
-}
+export default (req, res) => {
+    return {
+            "foo":"bar"
+    }
 };
